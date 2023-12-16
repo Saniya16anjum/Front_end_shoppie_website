@@ -1,0 +1,58 @@
+
+
+[
+    {
+      "category": "Clothing",
+      "image": "https://www.papercitymag.com/wp-content/uploads/2019/12/62386966_2402234889822621_1584683988369276928_o-1024x683.jpg",
+      "subcategories": [
+        {
+          "subcategory": "Men",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqH6ywe9I2c7kHRtAjhyq3BfvhsPdQzFOShg&usqp=CAU",
+          "items": ["Men's Wear", "Men's Shoes", "Accessories"]
+        },
+        {
+          "subcategory": "Women",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4k6zVDApgIalWp-6spA0_JllAKApAFGW9A&usqp=CAU",
+          "items": ["Women's Dresses", "Women's Shoes", "Accessories"]
+        },
+        {
+          "subcategory": "Children",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFj3X-UacgWFjm6BS94tcdJE50Kj0gKdhhDg&usqp=CAU",
+          "items": ["Kids' Clothing", "Kids' Shoes", "Toys"]
+        }
+      ]
+    },
+    {
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_VwM9qr04zJfP1cIorSL0vn2Jfxbzez6KNg&usqp=CAU",
+      "subcategories": [
+        {
+          "subcategory": "Smartphones",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JBEsddrkcXyTjdTVk3OaroPigPaxEkhPFw&usqp=CAU",
+          "items": ["iPhone", "Samsung Galaxy", "Google Pixel"]
+        },
+        {
+          "subcategory": "Laptops",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIWH9BOOiSMe6CaNBkaDwxgZwRoVV4flZyw&usqp=CAU",
+          "items": ["MacBook", "Dell XPS", "HP Spectre"]
+        },
+        {
+          "subcategory": "Accessories",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-2-y8wAzCBaHkIf8vjbV5oTwSvFWzgbbT7g&usqp=CAU",
+          "items": ["Headphones", "Smartwatches", "Chargers"]
+        }
+      ]
+    }
+    
+  ]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

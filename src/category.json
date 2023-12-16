@@ -1,0 +1,12 @@
+
+[
+  {
+    "category": "Electronics",
+    "subcategories": ["Smartphones", "Laptops", "Accessories"]
+  },
+  {
+    "category": "Clothing",
+    "subcategories": ["Men", "Women", "Children"]
+  }
+
+]
